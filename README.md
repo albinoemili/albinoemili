@@ -1,6 +1,8 @@
 ### Hi there 👋
 
  🔭 I’m currently working on my term paper and undergraduate thesis!!
+ 
+ 
  🌱 I’m currently learning about php, css, html and js!!
  
  
