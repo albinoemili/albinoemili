@@ -6,6 +6,8 @@
  
  🦆 Patolino
  
+ ![](https://komarev.com/ghpvc/?username=your-github-albinoemili)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albinoemili&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
