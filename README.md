@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ 🔭 I’m currently working on my term paper and undergraduate thesis!!
+ 🌱 I’m currently learning about php, css, html and js!!
+ 
+ 
+
 <!--
 **albinoemili/albinoemili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
