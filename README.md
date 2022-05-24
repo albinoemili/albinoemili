@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Emili
+
+<img align='right' src="https://3.bp.blogspot.com/-AD34WpdmYLE/VPxIpO_6g6I/AAAAAAACFh4/jQhO5pxTN3Y/s1600/63.gif" width="230">
 
  🐱 I’m currently working on my term paper and undergraduate thesis!!
  
