@@ -6,9 +6,7 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albinoemili&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
  
  
 
