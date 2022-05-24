@@ -2,8 +2,9 @@
 
  🔭 I’m currently working on my term paper and undergraduate thesis!!
  
- 
  🌱 I’m currently learning about php, css, html and js!!
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
  
  
 
