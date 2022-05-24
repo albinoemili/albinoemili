@@ -6,7 +6,9 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=albinoemili&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img align="right" alt="Coding" width="400" src="[coloque o link aqui](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fninaribeiro%2Fstatus%2F1492211373497069570%3Flang%3Dhe&psig=AOvVaw3eMbTDxQCiXFl14pR8F8tN&ust=1653484529106000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNC7moOc-PcCFQAAAAAdAAAAABAY)">
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
  
  
 
